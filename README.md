@@ -26,8 +26,6 @@ DevOps / Platform Engineering — Suisse (Genève/Vaud)
   <img src="https://img.shields.io/badge/Kubespray-326CE5?style=flat-square" alt="Kubespray" />
   <img src="https://img.shields.io/badge/Longhorn-00A6D6?style=flat-square" alt="Longhorn" />
   <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat-square" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/XL%20Release-1F6FEB?style=flat-square" alt="XL Release" />
-  <img src="https://img.shields.io/badge/Apriso%20Job%20Executor-4B5563?style=flat-square" alt="Apriso Job Executor" />
 </p>
 
 ## Activity
