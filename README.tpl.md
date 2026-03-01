@@ -1,3 +1,5 @@
+<!-- This file is auto-generated from README.tpl.md by the readme-scribe workflow. Do not edit manually. -->
+
 # Hi there 👋🏼
 
 DevOps / Platform Engineering — Suisse (Genève/Vaud)
@@ -29,7 +31,7 @@ DevOps / Platform Engineering — Suisse (Genève/Vaud)
   <img src="https://img.shields.io/badge/Apriso%20Job%20Executor-4B5563?style=flat-square" alt="Apriso Job Executor" />
 </p>
 
-## Activity (auto)
+## Activity
 <details>
 <summary>Recent contributions</summary>
 {{range recentContributions 5}}
@@ -58,7 +60,7 @@ DevOps / Platform Engineering — Suisse (Genève/Vaud)
 {{- end}}
 </details>
 
-## Metrics (auto)
+## Metrics
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=acedya&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acedya&layout=compact&hide_border=true" alt="Top languages" />
@@ -69,5 +71,6 @@ DevOps / Platform Engineering — Suisse (Genève/Vaud)
 </p>
 
 ## Contact
+
 - GitHub Issues / Discussions
-- LinkedIn: to be added
+- LinkedIn: *(to be added)*
