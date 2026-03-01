@@ -24,7 +24,7 @@ jobs:
       - name: Generate README from template
         uses: muesli/readme-scribe@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: README.tpl.md
           writeTo: README.md
@@ -34,3 +34,6 @@ jobs:
         with:
           commit_message: "docs(readme): auto-update profile"
           file_pattern: README.md
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
