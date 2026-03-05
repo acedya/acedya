@@ -44,8 +44,8 @@ DevOps / Platform Engineering — Suisse (Genève/Vaud)
 <details>
 <summary>Recent pull requests</summary>
 
-- [Feature/init](https://github.com/acedya/awx-delinea-secret-server-credential-plugin/pull/5) on [acedya/awx-delinea-secret-server-credential-plugin](https://github.com/acedya/awx-delinea-secret-server-credential-plugin) (1 week ago)
-- [Init commit](https://github.com/acedya/awx-delinea-secret-server-credential-plugin/pull/2) on [acedya/awx-delinea-secret-server-credential-plugin](https://github.com/acedya/awx-delinea-secret-server-credential-plugin) (1 week ago)
+- [Feature/init](https://github.com/acedya/awx-delinea-secret-server-credential-plugin/pull/5) on [acedya/awx-delinea-secret-server-credential-plugin](https://github.com/acedya/awx-delinea-secret-server-credential-plugin) (2 weeks ago)
+- [Init commit](https://github.com/acedya/awx-delinea-secret-server-credential-plugin/pull/2) on [acedya/awx-delinea-secret-server-credential-plugin](https://github.com/acedya/awx-delinea-secret-server-credential-plugin) (2 weeks ago)
 </details>
 
 <details>
