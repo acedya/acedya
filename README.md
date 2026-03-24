@@ -32,7 +32,7 @@ DevOps / Platform Engineering — Suisse (Genève/Vaud)
 <details>
 <summary>Recent contributions</summary>
 
-- [acedya/awx-delinea-secret-server-credential-plugin](https://github.com/acedya/awx-delinea-secret-server-credential-plugin) —  (4 weeks ago)
+- [acedya/awx-delinea-secret-server-credential-plugin](https://github.com/acedya/awx-delinea-secret-server-credential-plugin) —  (1 month ago)
 </details>
 
 <details>
